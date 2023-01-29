@@ -1,0 +1,50 @@
+@import url(reset.css);
+/* *{
+    color: blue;
+} */
+div{
+    color: red;
+}
+a{
+    color: green;
+}
+.content{
+    color: aquamarine;
+}
+#climb__up{
+    color: yellow;
+}
+div.text{
+    color: blueviolet;
+}
+.fine.block{
+    color: rgb(19, 167, 43);
+}
+.tolerance,
+.content__2{
+    color: aqua;
+}
+.requirements p{
+    color: yellow;
+}
+.content.text{
+    color: rgb(113, 183, 44);
+}
+.examination * {
+    color: violet;
+}
+.examination > p{
+    color: rgb(74, 231, 119);
+}
+.examination ~ p{
+    color: yellowgreen;
+}
+.block {
+    color: rgb(180, 110, 19);
+}
+[class*="block"]{
+    color: brown;
+}
+
+
+
