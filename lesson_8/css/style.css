@@ -52,7 +52,6 @@
 }
 
 .block__text2 {
-    display: inline-block;
     font-family: "Inter";
     max-width: 570px;
     margin-right: 179px;
@@ -61,6 +60,7 @@
 }
 
 .buttom{
+    display: inline-block;
     color: #FFFFFF;
     border-radius: 30px;
     background-color: #3056D3;
