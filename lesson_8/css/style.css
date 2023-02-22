@@ -48,13 +48,13 @@
 .block__contayner2 {
     max-width: 1170px;
     margin: 0 auto;
+    padding: 145px 0;
 }
 
 .block__text2 {
     display: inline-block;
     font-family: "Inter";
     max-width: 570px;
-    padding: 145px 0;
     margin-right: 179px;
     vertical-align: middle;
     color: #637381;
