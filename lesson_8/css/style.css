@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:500,600,700&display=swap);
 
 .block {
-    background: url(../img/unsplash_WgMDQsn36w4.png) center no-repeat #212529;
+    background: url(../img/unsplash_WgMDQsn36w4.png) 50% / cover no-repeat #212529;
 }
 .block__contayner {
     max-width: 1240px;
