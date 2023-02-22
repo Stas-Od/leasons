@@ -52,6 +52,7 @@
 }
 
 .block__text2 {
+    display: inline-block;
     font-family: "Inter";
     max-width: 570px;
     margin-right: 179px;
